@@ -8,9 +8,8 @@ creator:
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Efficient Text Editing with Sublime
 
-## Core Competencies
-
-Students will be able to:
+### LEARNING OBJECTIVES
+*After this lesson, you will be able to:*
 
 * Explain the difference between text files and binary files
 * Installing Sublime Text 3 using brew cask

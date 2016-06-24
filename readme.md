@@ -1,15 +1,11 @@
-# Efficient Text Editing with Sublime
+title: Efficient Text Editing with Sublime
+duration: "0:75"
+creator:
+    name: Shawn A Johnson
+    city: Atlanta
+---
 
-*Submitted by Shawn A Johnson, WDI Atlanta.*
-
-The following lesson should take about `75 minutes` and includes a lab for
-the students to practice some of the powerful editing features of Sublime.
-
-The main purpose of this lesson is to get students comfortable with the
-Sublime editor, including how to configure it, install plugins, and get
-*greedy* about discovering faster, more efficient ways of editing files.
-
-TAGS=[sublime, editor, tools]
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)# Efficient Text Editing with Sublime
 
 ## Core Competencies
 
@@ -28,6 +24,17 @@ Students will be able to:
   - select and edit in "column mode"
   - move the selected line up or down
 * Use keyboard shortcuts to save time
+
+
+### COMPONENTS
+Installation/Setup
+Lecture
+Codealong
+
+
+>In the following lesson students practice some of the powerful editing features of Sublime. The main purpose of this lesson is to get students comfortable with the
+Sublime editor, including how to configure it, install plugins, and get
+*greedy* about discovering faster, more efficient ways of editing files.
 
 
 ## Install Brew & Brew Cask

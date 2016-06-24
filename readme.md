@@ -1,3 +1,4 @@
+---
 title: Efficient Text Editing with Sublime
 duration: "0:75"
 creator:
@@ -5,7 +6,7 @@ creator:
     city: Atlanta
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)# Efficient Text Editing with Sublime
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Efficient Text Editing with Sublime
 
 ## Core Competencies
 

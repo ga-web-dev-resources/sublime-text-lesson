@@ -27,7 +27,7 @@ Students will be able to:
 * Use keyboard shortcuts to save time
 
 
-### COMPONENTS
+### LESSON COMPONENTS
 - Installation/Setup
 - Lecture
 - Codealong

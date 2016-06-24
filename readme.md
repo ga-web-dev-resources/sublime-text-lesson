@@ -28,9 +28,9 @@ Students will be able to:
 
 
 ### COMPONENTS
-Installation/Setup
-Lecture
-Codealong
+- Installation/Setup
+- Lecture
+- Codealong
 
 
 >In the following lesson students practice some of the powerful editing features of Sublime. The main purpose of this lesson is to get students comfortable with the
